@@ -1,6 +1,12 @@
 {
-    "pack": {
-        "description": "ClearDrops",
-        "pack_format": 15
-    }
+  "pack": {
+    "description": "ClearDrops",
+    "pack_format": 88,
+    "supported_formats": {
+      "max_inclusive": 88,
+      "min_inclusive": 7
+    },
+    "min_format": 7,
+    "max_format": 88
+  }
 }
